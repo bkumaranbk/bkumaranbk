@@ -70,7 +70,7 @@ As a Software developer with 1+ years of experience, I am skilled in using Node.
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-plastic&logo=vite&logoColor=white)
 ![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat-plastic&logo=pwa&logoColor=white)
 
-### 💻 Recent Blog Posts
+## 💻 Recent Blog Posts
 
 <div align="left">
 <a href="https://medium.com/towards-aws/save-big-on-serverless-5-ways-to-reduce-your-aws-lambda-costs-45675d32b9ed" target="_blank">What is clean code?</a>
@@ -79,7 +79,7 @@ As a Software developer with 1+ years of experience, I am skilled in using Node.
 <br>
 </div>
 
-### 👋 Find Me On
+## 👋 Find Me On
 
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/16476113/kumaran-bk)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/balachandran-kumaran-4363361a8/)  [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@kumaran_bk) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bkumaran_bk)
 
