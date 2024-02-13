@@ -6,7 +6,7 @@
 ### 👋 About Me
 
 <div align="center">
-As a Software developer with 1+ years of experience, I am skilled in using Node.js, React JS, Laravel and many Javascript based technologies to build scalable, high-performance web applications. I am excited about the potential of these technologies and am always looking for opportunities to learn and grow as a developer.
+Hi, I'm Kumaran - a graduate of the University of Kelaniya Sri Lanka As a Software developer with 1+ years of experience, I am skilled in using Node.js, React JS, Laravel and many Javascript based technologies to build scalable, high-performance web applications. I am excited about the potential of these technologies and am always looking for opportunities to learn and grow as a developer.
 </div>
 
 ## 💻 Things I code with
